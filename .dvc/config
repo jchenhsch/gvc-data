@@ -1,0 +1,4 @@
+[core]
+    remote = dvc-storage
+['remote "dvc-storage"']
+    url = gs://custom-proj/dvc-demo
